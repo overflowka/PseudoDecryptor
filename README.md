@@ -1,6 +1,5 @@
 # PseudoDecryptor
 python script that cleans the pseudocode from garbage and also runs it.
 
-![Engine64_X9BoEq8bMW](https://github.com/overflowka/PseudoDecryptor/assets/71901175/9f3035ff-a36d-4b8b-92a7-ec77707b7bb4)
-
-![image](https://github.com/overflowka/PseudoDecryptor/assets/71901175/354e171a-203a-413a-9b00-a7bd55b11db6)
+![image](https://github.com/overflowka/PseudoDecryptor/assets/71901175/88bfc9b1-921e-4d9f-a2ef-fe38596d80ea)
+![cmd_AcdSZHeWfJ](https://github.com/overflowka/PseudoDecryptor/assets/71901175/77694b3a-11ea-468b-8c76-f8fef2eab067)
